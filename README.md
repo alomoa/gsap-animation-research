@@ -36,4 +36,49 @@ https://github.com/user-attachments/assets/c89811b0-7cd6-41fc-8503-97c84ee698f6
 - Non-hovered items grey out and call to action button appears with a growth from 0 animation and leaves in the same manner.
 
 
+# https://sumatran.cat/
+- Small objects with cute ambient and hover animations
+- Avatar following the camera
+
+# https://localstudio.fr/
+
+![image](https://github.com/user-attachments/assets/ab20e03a-ecfa-4428-9625-c3d11db3409d)
+- I like this effect. It looks 2.5D
+- Slide up transition to new page
+  
+https://github.com/user-attachments/assets/49828f27-9f40-439d-bf22-349df578e57a
+- Text animation, I like
+
+https://github.com/user-attachments/assets/29a8e76a-cb56-4adb-b1d8-80312a8daa5c
+- As you scroll to a new section, the new section slighty moves up to overlap the current one
+
+# https://toyfight.co/
+
+https://github.com/user-attachments/assets/bff89f41-abce-4a0f-a953-2261390c34e0
+- Tiny widget that changes between hellos in multiple languages >__<
+
+https://github.com/user-attachments/assets/6cc39f97-bdc6-4887-97a4-4b716fd55fb3
+- Another example!
+
+https://github.com/user-attachments/assets/7d740a75-cc38-4fb7-89fd-f4b561b71354
+- Animated in border
+
+https://github.com/user-attachments/assets/59860a5b-ab85-454c-b26e-a677dc8d9154
+- Cool gallery-esque widget. Expanding-on-hover media, tooltip following mouse
+
+# https://tomomi-shibakusa.com/
+
+https://github.com/user-attachments/assets/9bec1974-2e19-46e0-9df3-871fb60ed0c0
+- There's alot going on here. Wadafak. I do like the lights slowly flickering and some of the patterns in the background "breathing". Page feels alive
+- The contrast makes it hard to read the text >_<
+
+
+https://github.com/user-attachments/assets/79b5afd3-363e-41be-9050-5d4c4fb94577
+- I like this loading screen!
+  
+
+
+
+
+
 
