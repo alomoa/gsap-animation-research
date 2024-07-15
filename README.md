@@ -32,4 +32,8 @@ https://github.com/user-attachments/assets/18e0812c-058f-4212-bdf9-c4711c3a1812
 https://github.com/user-attachments/assets/c89811b0-7cd6-41fc-8503-97c84ee698f6
 - This is cool >_<
 
+![image](https://github.com/user-attachments/assets/352f63f5-e9a8-4673-b2a3-cd7cc2ae2910)
+- Non-hovered items grey out and call to action button appears with a growth from 0 animation and leaves in the same manner.
+
+
 
