@@ -54,7 +54,8 @@ https://github.com/user-attachments/assets/29a8e76a-cb56-4adb-b1d8-80312a8daa5c
 
 # https://toyfight.co/
 
-https://github.com/user-attachments/assets/bff89f41-abce-4a0f-a953-2261390c34e0
+
+https://github.com/user-attachments/assets/ff961012-a913-48bd-8a5a-3e1cdc0f3b17
 - Tiny widget that changes between hellos in multiple languages >__< **Idea**
 
 https://github.com/user-attachments/assets/6cc39f97-bdc6-4887-97a4-4b716fd55fb3
@@ -77,7 +78,6 @@ https://github.com/user-attachments/assets/79b5afd3-363e-41be-9050-5d4c4fb94577
 - I like this loading screen! **Idea?**
 
 # https://sasha.works/ 
-
 
 https://github.com/user-attachments/assets/21bd9e16-18eb-41b8-8d59-254853b66b23
 - Characters in title animating in seemengly randmoly **Idea**
