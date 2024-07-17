@@ -143,5 +143,11 @@ https://github.com/user-attachments/assets/68570df9-a28c-4453-8b4b-534068ff2b55
 https://github.com/user-attachments/assets/8ff8152b-47a3-42ad-82e6-1197de6d9c91
 - Wanna make the Artifex logo dance? **Idea**
 
+# Random site
+
+https://github.com/user-attachments/assets/11befc89-bf57-4f05-8713-43f464ecddb8
+- I like the filling starts from the circle in the card and expands outward. 
+
+
 
 
